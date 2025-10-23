@@ -1,72 +1,143 @@
-# VanticLab
+# VanticLab Virtual Data Room
 
-> **Observation-first AI teammates** that remove friction from day‑to‑day knowledge work. We watch how teams actually operate, surface hidden drag points, and respond with automation people can trust.
-
----
-
-## 🎯 What We Build
-
-### 🤖 Vantic Agent
-AI colleague for Australian SMEs that learns by watching workflows, identifies friction, and suggests/executes improvements without brittle integrations.
-
-### 🧩 Pattern Intelligence Engine  
-Internal platform that turns observed tasks into reusable automations through experimentation, telemetry capture, and feedback loops.
-
-### 📚 Virtual Data Room (VDR)
-Investor-grade single source of truth combining legal, R&D, financial, and GTM documentation with automated conversion pipelines.
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Investor%20Ready-green?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Access-Controlled-blue?style=for-the-badge&logo=lock&logoColor=white" />
+  <img src="https://img.shields.io/badge/Last%20Updated-2025-01-27-orange?style=for-the-badge&logo=calendar&logoColor=white" />
+</div>
 
 ---
 
-## 🏗️ Repository Structure
+> **Professional documentation repository** for VanticLab investor due diligence and company overview.
 
-- **`vantic-agent`** — Product code, pilots, and deployment
-- **`pattern-intelligence-engine`** — Research, experimentation, and telemetry
-- **`docs`** — VDR, operations guides, and templates
-- **`.github`** — Organization profile and workflows
+## 📋 Table of Contents
 
-*Note: Some repositories may be private. See "Investor Access" below.*
-
----
-
-## 🎯 How We Work
-
-1. **🔍 Observe before automating** — Spend time inside workflows, measure friction, ship tooling only where it compounds value
-2. **📚 Write the playbook** — Every system ships with an operations guide
-3. **⚡ Bias for shipping loops** — Tight feedback cycles over large-batch releases  
-4. **🛡️ Security & trust first** — Guardrails, auditing, and consent as product features
+- [📊 Financial & Business](#-financial--business)
+- [⚖️ Legal & Compliance](#️-legal--compliance)
+- [🔬 R&D & Technical](#-rd--technical)
+- [📈 Go-to-Market](#-go-to-market)
+- [📚 Operations & Documentation](#-operations--documentation)
+- [🔒 Access Information](#-access-information)
 
 ---
 
-## 💼 Investor Access
+## 📊 Financial & Business
 
-We provide time-boxed read access to our VDR and selected repositories for due diligence.
+### Executive Materials
+- **[Executive Summary](financials/executive-summary.md)** - High-level company overview
+- **[Company Overview](financials/company-overview.md)** - Detailed business description
+- **[Unit Economics](financials/unit-economics.md)** - Revenue and cost analysis
+- **[Financial Model](financials/financial-model.xlsx)** - Detailed financial projections
 
-**Request access:**
-- **Email:** team@vanticlab.com
-- **Include:** Entity name, emails to grant, purpose, and desired duration
-- **Response time:** Within 24 hours
-
----
-
-## 🔒 Security & Compliance
-
-- **Principle of least privilege** for all access
-- **Auditable converter pipeline** for investor document packs
-- **Change logs and review gates** on sensitive documentation
-- **Security inquiries:** security@vanticlab.com
+### Business Metrics
+- **[Financial Summary](financials/financial-summary.md)** - Key financial metrics
+- **[Revenue Analysis](financials/revenue-analysis.md)** - Revenue streams and projections
+- **[Cost Structure](financials/cost-structure.md)** - Operating expenses breakdown
 
 ---
 
-## 📞 Contact & Social
+## ⚖️ Legal & Compliance
 
-- **Website:** [vanticlab.com](https://www.vanticlab.com)
-- **Email:** team@vanticlab.com
-- **LinkedIn:** [linkedin.com/company/vanticlab](https://www.linkedin.com/company/vanticlab)
-- **X (Twitter):** [@vanticlab](https://twitter.com/vanticlab)
-- **Medium:** [medium.com/@vanticlab](https://medium.com/@vanticlab)
-- **Substack:** [vanticlab.substack.com](https://vanticlab.substack.com)
-- **Location:** Queensland, Australia
+### Legal Agreements
+- **[Master Subscription Agreement](legal/master-subscription-agreement.md)** - Customer terms
+- **[Mutual NDA](legal/mutual-nda.md)** - Confidentiality agreements
+- **[Standalone DPA](legal/standalone-dpa.md)** - Data processing agreement
+- **[Diagnostic Engagement Agreement](legal/diagnostic-engagement-agreement.md)** - Service agreements
+
+### Compliance & Security
+- **[Technical Security](legal/technical-security.md)** - Security protocols and compliance
+- **[Privacy Policy](legal/privacy-policy.md)** - Data protection and privacy
+- **[Terms of Service](legal/terms-of-service.md)** - Platform usage terms
 
 ---
 
-*Building AI teammates that turn observed friction into compounding leverage.*
+## 🔬 R&D & Technical
+
+### Research & Development
+- **[R&D Project Management](rnd/project-management.md)** - R&D processes and procedures
+- **[Software Development R&D](rnd/software-development.md)** - Technical development activities
+- **[Medical Device R&D](rnd/medical-device.md)** - Healthcare technology development
+- **[Data Analysis R&D](rnd/data-analysis.md)** - Analytics and insights development
+
+### Technical Documentation
+- **[Pattern Intelligence Engine](technical/pattern-intelligence-engine.md)** - Core AI platform
+- **[Vantic Agent](technical/vantic-agent.md)** - AI assistant technology
+- **[System Architecture](technical/system-architecture.md)** - Technical infrastructure
+- **[API Documentation](technical/api-documentation.md)** - Developer resources
+
+---
+
+## 📈 Go-to-Market
+
+### Market Analysis
+- **[Market Research](gtm/market-research.md)** - Target market analysis
+- **[Competitive Analysis](gtm/competitive-analysis.md)** - Competitive landscape
+- **[Customer Segments](gtm/customer-segments.md)** - Target customer analysis
+
+### Marketing & Sales
+- **[Marketing Strategy](gtm/marketing-strategy.md)** - Go-to-market approach
+- **[SEO Strategy](gtm/seo-strategy.md)** - Digital marketing strategy
+- **[Sales Process](gtm/sales-process.md)** - Customer acquisition methodology
+
+---
+
+## 📚 Operations & Documentation
+
+### Business Operations
+- **[Operations Manual](operations/operations-manual.md)** - Company operational procedures
+- **[Business Processes](operations/business-processes.md)** - Workflow documentation
+- **[Quality Assurance](operations/quality-assurance.md)** - QA processes and standards
+
+### Documentation & Templates
+- **[Documentation Standards](templates/documentation-standards.md)** - Documentation guidelines
+- **[PDF Conversion Tools](templates/pdf-conversion.md)** - Document processing tools
+- **[Template Library](templates/template-library.md)** - Reusable document templates
+
+---
+
+## 🔒 Access Information
+
+### Repository Details
+- **Repository:** [VanticLab/vdr-docs](https://github.com/VanticLab/vdr-docs)
+- **Access Level:** Investor Read-Only
+- **Document Count:** 50+ documents
+- **Last Updated:** 2025-01-27
+- **Next Review:** 2025-02-26
+
+### Contact Information
+- **Primary Contact:** s.attwood@vanticlab.com
+- **Technical Questions:** team@vanticlab.com
+- **Terms & Privacy Inquiries:** privacy@vanticlab.com
+- **Agent Inquiries (Subscribers):** ai@vanticlab.com
+- **Response Time:** Within 24 hours
+
+### Security & Compliance
+- **Access Control:** Principle of least privilege
+- **Audit Trail:** All access logged and monitored
+- **Data Protection:** GDPR and Australian Privacy Act compliant
+- **Document Security:** Encrypted storage and transmission
+
+---
+
+## 📞 Support & Assistance
+
+### Getting Help
+- **Documentation Issues:** Contact team@vanticlab.com
+- **Technical Problems:** Contact ai@vanticlab.com
+- **Access Requests:** Contact privacy@vanticlab.com
+- **General Inquiries:** Contact team@vanticlab.com
+
+### Best Practices
+- **Download documents** for offline review
+- **Use search functionality** to find specific information
+- **Contact us** if you need clarification on any materials
+- **Respect confidentiality** of all shared information
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/VanticLab-Virtual%20Data%20Room-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Confidential-Investor%20Only-red?style=for-the-badge&logo=eye&logoColor=white" />
+</div>
+
+*This Virtual Data Room contains confidential and proprietary information. Access is restricted to authorized investors and stakeholders only.*
